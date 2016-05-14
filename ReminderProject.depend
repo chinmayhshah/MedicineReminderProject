@@ -1,0 +1,223 @@
+# depslib dependency file v1.0
+1461389499 source:c:\chinmay_drive\courses\5613\project\codeproject\contraints.c
+	<stdio.h>
+	"constraints.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"eeprom.h"
+	"LCD.h"
+	"timers.h"
+
+1461394724 c:\chinmay_drive\courses\5613\project\codeproject\constraints.h
+
+1461253890 c:\chinmay_drive\courses\5613\project\codeproject\eeprom.h
+
+1460081178 c:\chinmay_drive\courses\5613\project\codeproject\lcd.h
+
+1459864309 c:\chinmay_drive\courses\5613\project\codeproject\timers.h
+
+1460076351 source:c:\chinmay_drive\courses\5613\project\codeproject\delay_custom.c
+	"delay_custom.h"
+
+1458682763 c:\chinmay_drive\courses\5613\project\codeproject\delay_custom.h
+	<stdio.h>
+
+1461561188 source:c:\chinmay_drive\courses\5613\project\codeproject\eeprom.c
+	<at89c51ed2.h>
+	"I2C.h"
+	"eeprom.h"
+	"delay_custom.h"
+	"constraints.h"
+
+1461301917 c:\chinmay_drive\courses\5613\project\codeproject\i2c.h
+
+1461301958 source:c:\chinmay_drive\courses\5613\project\codeproject\i2c.c
+	<at89c51ed2.h>
+	"I2C.h"
+	"delay_custom.h"
+
+1460079724 source:c:\chinmay_drive\courses\5613\project\codeproject\ioexpander.c
+	"ioexpander.h"
+	"I2C.h"
+	<stdio.h>
+
+1460075908 c:\chinmay_drive\courses\5613\project\codeproject\ioexpander.h
+
+1461061407 source:c:\chinmay_drive\courses\5613\project\codeproject\lcd.c
+	<at89c51ed2.h>
+	"delay_custom.h"
+	"LCD.h"
+	<string.h>
+	"constraints.h"
+	"timers.h"
+
+1462056556 source:c:\chinmay_drive\courses\5613\project\codeproject\main.c
+	<at89c51ed2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mcs51/8051.h>
+	"Serial.h"
+	"delay_custom.h"
+	"I2C.h"
+	"eeprom.h"
+	"SPI.h"
+	"MFRC522RFID_STMBASED.h"
+	"RTC_DS1307.h"
+	"Medicine_DB.h"
+	"stlcd.h"
+	"TSC2013_Q1.h"
+	"constraints.h"
+
+1458119443 c:\chinmay_drive\courses\5613\project\codeproject\serial.h
+
+1459975246 c:\chinmay_drive\courses\5613\project\codeproject\menu.h
+
+1462064730 c:\chinmay_drive\courses\5613\project\codeproject\spi.h
+
+1460491888 source:c:\chinmay_drive\courses\5613\project\codeproject\menu.c
+	"I2C.h"
+	"eeprom.h"
+	"menu.h"
+	"Serial.h"
+	"constraints.h"
+	"LCD.h"
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ioexpander.h"
+	<at89c51ed2.h>
+	"timers.h"
+
+1459683447 source:c:\chinmay_drive\courses\5613\project\codeproject\serial.c
+	<at89c51ed2.h>
+	"timers.h"
+
+1460841291 source:c:\chinmay_drive\courses\5613\project\codeproject\spi.c
+	<at89c51ed2.h>
+	"SPI.h"
+	"delay_custom.h"
+
+1460075566 source:c:\chinmay_drive\courses\5613\project\codeproject\timers.c
+	"timers.h"
+	<at89c51ed2.h>
+	"stdio.h"
+	"LCD.h"
+	"constraints.h"
+	"string.h"
+
+1460529544 c:\chinmay_drive\courses\5613\project\codeproject\mfrc522rfid.h
+
+1461286016 c:\chinmay_drive\courses\5613\project\codeproject\rts_ds1302.h
+
+1460592869 source:c:\chinmay_drive\courses\5613\project\codeproject\mfrc522rfid.c
+	"SPI.h"
+	"MFRC522RFID.h"
+	<at89c51ed2.h>
+	<stdio.h>
+	"delay_custom.h"
+
+1462064747 c:\chinmay_drive\courses\5613\project\codeproject\mfrc522rfid_stmbased.h
+	<at89c51ed2.h>
+	"SPI.h"
+	"stdio.h"
+
+1462064858 c:\chinmay_drive\courses\5613\project\codeproject\medicine_db.h
+	"RTC_DS1307.h"
+
+1460871432 source:c:\chinmay_drive\courses\5613\project\codeproject\medcine_db.c
+
+1462057831 source:c:\chinmay_drive\courses\5613\project\codeproject\mfrc522rfid_stmbased.c
+	"MFRC522RFID_STMBASED.h"
+
+1462064755 source:c:\chinmay_drive\courses\5613\project\codeproject\medicine_db.c
+	"Medicine_DB.h"
+	"RTC_DS1307.h"
+	"eeprom.h"
+	"stdio.h"
+	"delay_custom.h"
+	"stlcd.h"
+	<at89c51ed2.h>
+
+1461062596 source:c:\chinmay_drive\courses\5613\project\codeproject\rtc_ds1302.c
+	"RTS_DS1302.h"
+	<string.h>
+	"Serial.h"
+	<stdio.h>
+	<at89c51ed2.h>
+	"delay_custom.h"
+
+1461086093 source:c:\chinmay_drive\courses\5613\project\material to read\lcd\st7565-lcd-master\st7565-lcd-master\c\glcd.c
+	<stdlib.h>
+	<at89c51ed2.h>
+	"glcd.h"
+	"string.h"
+
+1461086817 c:\chinmay_drive\courses\5613\project\material to read\lcd\st7565-lcd-master\st7565-lcd-master\c\glcd.h
+
+1461084350 source:c:\chinmay_drive\courses\5613\project\material to read\lcd\st7565-lcd-master\st7565-lcd-master\c\glcdfont.c
+	<stdio.h>
+
+1461085819 source:c:\chinmay_drive\courses\5613\project\material to read\lcd\st7565-lcd-master\st7565-lcd-master\c\stlcd.c
+	<stdio.h>
+	<stdlib.h>
+	"stlcd.h"
+	"glcd.h"
+	<at89c51ed2.h>
+	"../../../../../CodeProject/SPI.h"
+	"../../../../../CodeProject/delay_custom.h"
+
+1461085108 c:\chinmay_drive\courses\5613\project\material to read\lcd\st7565-lcd-master\st7565-lcd-master\c\stlcd.h
+
+1461195474 source:c:\chinmay_drive\courses\5613\project\codeproject\glcd.c
+	<stdlib.h>
+	<at89c51ed2.h>
+	"glcd.h"
+	"string.h"
+	"Serial.h"
+	<stdio.h>
+
+1461134193 c:\chinmay_drive\courses\5613\project\codeproject\glcd.h
+
+1461084350 source:c:\chinmay_drive\courses\5613\project\codeproject\glcdfont.c
+	<stdio.h>
+
+1462065328 c:\chinmay_drive\courses\5613\project\codeproject\stlcd.h
+	"RTC_DS1307.h"
+
+1461625657 source:c:\chinmay_drive\courses\5613\project\codeproject\stlcd.c
+	<stdio.h>
+	<stdlib.h>
+	"stlcd.h"
+	"glcd.h"
+	<at89c51ed2.h>
+	"SPI.h"
+	"delay_custom.h"
+	"myFont.h"
+	"string.h"
+	"RTC_DS1307.h"
+
+1461625370 c:\chinmay_drive\courses\5613\project\codeproject\myfont.h
+
+1462063441 c:\chinmay_drive\courses\5613\project\codeproject\rtc_ds1307.h
+
+1461619250 c:\chinmay_drive\courses\5613\project\codeproject\tsc2013_q1.h
+
+1462064277 source:c:\chinmay_drive\courses\5613\project\codeproject\rtc_ds1307.c
+	"RTC_DS1307.h"
+	<string.h>
+	"Serial.h"
+	<stdio.h>
+	<at89c51ed2.h>
+	"delay_custom.h"
+	"I2C.h"
+
+1461622167 source:c:\chinmay_drive\courses\5613\project\codeproject\tsc2013_q1.c
+	"TSC2013_Q1.h"
+	<at89c51ed2.h>
+	"I2C.h"
+	"Serial.h"
+	"stdio.h"
+	"delay_custom.h"
+
