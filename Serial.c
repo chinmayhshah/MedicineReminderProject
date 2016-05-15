@@ -1,3 +1,11 @@
+/********************************************
+Coded by :Chinmay Shah
+Version : V 1.0
+Functions to Read and Write using RS232
+
+***********************************************/
+
+
 #include <at89c51ed2.h>
 #include "timers.h"
 
